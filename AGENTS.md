@@ -1,6 +1,8 @@
 # AGENTS.md — AWF Website
 
 IMPORTANT: Codex must read and follow this file before making any change in this repository.
+For all branding, design, UI, and code decisions, follow BRAND_GUIDELINES.md.
+For all French website, social media, commercial, and ad copy, follow COPY_GUIDE_FR.md.
 
 ## Project
 
