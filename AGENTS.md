@@ -1,5 +1,7 @@
 # AGENTS.md — AWF Website
 
+IMPORTANT: Codex must read and follow this file before making any change in this repository.
+
 ## Project
 
 This repository contains the WordPress theme and companion plugin for AWF — ALLO WORK FORCE.
